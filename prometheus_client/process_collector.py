@@ -89,5 +89,5 @@ class ProcessCollector(object):
         return result
 
 
-PROCESS_COLLECTOR = ProcessCollector()
+## PROCESS_COLLECTOR = ProcessCollector()
 """Default ProcessCollector in default Registry REGISTRY."""

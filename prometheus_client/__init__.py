@@ -29,8 +29,8 @@ pushadd_to_gateway = exposition.pushadd_to_gateway
 delete_from_gateway = exposition.delete_from_gateway
 instance_ip_grouping_key = exposition.instance_ip_grouping_key
 
-ProcessCollector = process_collector.ProcessCollector
-PROCESS_COLLECTOR = process_collector.PROCESS_COLLECTOR
+#ProcessCollector = process_collector.ProcessCollector
+#PROCESS_COLLECTOR = process_collector.PROCESS_COLLECTOR
 
 PlatformCollector = platform_collector.PlatformCollector
 PLATFORM_COLLECTOR = platform_collector.PLATFORM_COLLECTOR
